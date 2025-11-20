@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="galaxy-a05s" fetch="https://github.com/galaxy-a05s" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/samsung/a05s" name="lineage_device_samsung_a05s" remote="galaxy-a05s" revision="lineage-22" />
+
+    <!-- Device - Common -->
+    <project path="device/samsung/bengal-common" name="lineage_device_samsung_bengal-common" remote="galaxy-a05s" revision="lineage-22" />
+
+    <!-- Kernel -->
+
+    <!-- Vendor -->
+    <project path="vendor/samsung/bengal" name="android_vendor_samsung_bengal_f" remote="galaxy-a05s" revision="lineage-22" />
+
+    <!-- Vendor - Common -->
+
+</manifest>
