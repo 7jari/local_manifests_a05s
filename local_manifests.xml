@@ -21,5 +21,6 @@
     <project path="vendor/samsung/bengal" name="android_vendor_samsung_bengal_f" remote="Daru-san" revision="lineage-22" />
 
     <!-- Vendor - Common -->
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-22.1" />
 
 </manifest>
