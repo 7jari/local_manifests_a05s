@@ -4,6 +4,7 @@
 
     <!-- Remotes -->
     <remote name="Daru-san" fetch="https://github.com/Daru-san" clone-depth="1" />
+    <remote name="Linux4" fetch="https://github.com/linux4-bringup-priv" clone-depth="1" />
 
     <!-- Removals -->
 
@@ -21,5 +22,6 @@
     <project path="vendor/samsung/bengal" name="android_vendor_samsung_bengal_f" remote="Daru-san" revision="lineage-22" />
 
     <!-- Vendor - Common -->
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="Linux4" revision="lineage-22.1" />
 
 </manifest>
