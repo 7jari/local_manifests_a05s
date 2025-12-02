@@ -10,8 +10,8 @@
     <project path="device/samsung/sm6225-common" name="lineage_device_samsung_sm6225-common" remote="SB515D" revision="lineage-22" />
 
     <!-- Kernel -->
-    <project path="kernel/samsung/sm6225-5.15" name="android_kernel_samsung_sm6225-5.15" remote="SB515D" revision="master" />
-    <project path="kernel/samsung/sm6225-5.15-modules" name="android_kernel_samsung_sm6225-5.15-modules" remote="SB515D" revision="main" />
+    <project path="kernel/samsung/sm6225" name="android_kernel_samsung_sm6225-5.15" remote="SB515D" revision="master" />
+    <project path="kernel/samsung/sm6225-modules" name="android_kernel_samsung_sm6225-5.15-modules" remote="SB515D" revision="main" />
 
     <!-- Vendor -->
     <project path="vendor/samsung/sm6225" name="android_vendor_samsung_sm6225" remote="SB515D" revision="lineage-22" />
