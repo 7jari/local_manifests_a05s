@@ -11,7 +11,7 @@
     <project path="device/samsung/a05s-kernel" name="samsung-bengal515-dev/android_kernel_samsung_a05s" remote="gh" revision="lineage-23.0" />
 
     <!-- LineageOS SEPolicy trees -->
-    <project name="rn124g-development/android_device_qcom_sepolicy_vndr_sm6225" path="device/qcom/sepolicy_vndr/sm6225" remote="gh" revision="sixteen" />
+    <project name="samsung-bengal515-dev/android_device_qcom_sepolicy_vndr_sm6225" path="device/qcom/sepolicy_vndr/sm6225" remote="gh" revision="sixteen" />
 
     <!-- LineageOS hardware trees -->
     <remove-project path="hardware/qcom-caf/common" />
