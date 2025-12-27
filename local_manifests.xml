@@ -23,7 +23,7 @@
     <project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="rn124g-development/android_hardware_qcom-caf_sm6225_audio_primary-hal" remote="gh" revision="sixteen" />
     <project path="hardware/qcom-caf/sm6225/dataipa" name="rn124g-development/android_hardware_qcom-caf_sm6225_dataipa" remote="gh" revision="sixteen" />
     <project path="hardware/qcom-caf/sm6225/data-ipa-cfg-mgr" name="rn124g-development/android_hardware_qcom-caf_sm6225_data-ipa-cfg-mgr" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/display" name="rn124g-development/android_hardware_qcom-caf_sm6225_display" remote="gh" revision="sixteen" />
+    <project path="hardware/qcom-caf/sm6225/display" name="topnotchfreaks/android_hardware_qcom-caf_sm6225_display" remote="gh" revision="sixteen" />
     <project path="hardware/qcom-caf/sm6225/media" name="rn124g-development/android_hardware_qcom-caf_sm6225_media" remote="gh" revision="sixteen" />
 
     <!-- Hardware -->
