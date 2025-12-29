@@ -13,19 +13,6 @@
     <!-- LineageOS SEPolicy trees -->
     <project name="samsung-bengal515-dev/android_device_qcom_sepolicy_vndr_sm6225" path="device/qcom/sepolicy_vndr/sm6225" remote="gh" revision="sixteen" />
 
-    <!-- LineageOS hardware trees -->
-    <remove-project path="hardware/qcom-caf/common" />
-    <project name="SM6225-515/hardware_qcom-caf_commom" path="hardware/qcom-caf/common" remote="gh" revision="lineage-23.0" />
-
-    <!-- SM6225 trees -->
-    <project path="hardware/qcom-caf/sm6225/audio/agm" name="rn124g-development/android_hardware_qcom-caf_sm6225_audio_agm" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/audio/pal" name="rn124g-development/android_hardware_qcom-caf_sm6225_audio_pal" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="rn124g-development/android_hardware_qcom-caf_sm6225_audio_primary-hal" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/dataipa" name="rn124g-development/android_hardware_qcom-caf_sm6225_dataipa" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/data-ipa-cfg-mgr" name="rn124g-development/android_hardware_qcom-caf_sm6225_data-ipa-cfg-mgr" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/display" name="topnotchfreaks/android_hardware_qcom-caf_sm6225_display" remote="gh" revision="sixteen" />
-    <project path="hardware/qcom-caf/sm6225/media" name="rn124g-development/android_hardware_qcom-caf_sm6225_media" remote="gh" revision="sixteen" />
-
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="gh" revision="lineage-23.1" />
 </manifest>
