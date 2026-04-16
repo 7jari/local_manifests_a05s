@@ -7,5 +7,5 @@
     <project path="device/samsung/a05s-kernel" name="samsung-sm6225-dev/android_device_samsung_a05s-kernel" remote="github" revision="pixel-thirteen" />
 
     <!-- Hardware -->
-    <project path="hardware/samsung" name="hardware_samsung" remote="pixel" revision="fourteen" />
+    <project path="hardware/samsung" name="hardware_samsung" remote="pixel" revision="thirteen" />
 </manifest>
