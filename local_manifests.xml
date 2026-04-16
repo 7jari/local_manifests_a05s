@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- Remotes -->
-    <remote name="gh" fetch="https://github.com/" />
-    <remote name="gl" fetch="https://gitlab.com/" />
-
     <!-- Repos -->
     <!-- A05s device trees -->
-    <project path="device/samsung/a05s" name="samsung-bengal515-dev/lineage_device_samsung_a05s" remote="gh" revision="lineage-23.0" />
-    <project path="vendor/samsung/a05s" name="samsung-bengal515-dev/android_vendor_samsung_a05s" remote="gh" revision="lineage-23.0" />
-    <project path="device/samsung/a05s-kernel" name="samsung-bengal515-dev/android_kernel_samsung_a05s" remote="gh" revision="lineage-23.0" />
-
-    <!-- LineageOS SEPolicy trees -->
-    <project name="samsung-bengal515-dev/android_device_qcom_sepolicy_vndr_sm6225" path="device/qcom/sepolicy_vndr/sm6225" remote="gh" revision="sixteen" />
+    <project path="device/samsung/a05s" name="samsung-sm6225-dev/pixel_device_samsung_a05s" remote="github" revision="thirteen" />
+    <project path="vendor/samsung/a05s" name="samsung-sm6225-dev/android_vendor_samsung_a05s" remote="github" revision="lineage-23.0" />
+    <project path="device/samsung/a05s-kernel" name="samsung-sm6225-dev/android_device_samsung_a05s-kernel" remote="github" revision="lineage-23.0" />
 
     <!-- Hardware -->
-    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="gh" revision="lineage-23.1" />
+    <project path="hardware/samsung" name="hardware_samsung" remote="pixel" revision="fourteen" />
 </manifest>
